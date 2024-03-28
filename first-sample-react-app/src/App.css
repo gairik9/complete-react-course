@@ -1,0 +1,15 @@
+.app {
+  @apply flex items-center justify-center min-h-screen;
+}
+
+.app-container {
+  @apply shadow-2xl shadow-gray-500 p-[5rem] rounded-[0.5rem] flex flex-col items-center justify-center gap-y-[2rem];
+}
+
+.text-container {
+  @apply text-[1.5rem] text-green-500 font-[500] text-center;
+}
+
+.app-container > button {
+  @apply bg-slate-400 px-[2rem] py-[0.5rem] rounded-[0.3rem] text-white text-[1.2rem];
+}
