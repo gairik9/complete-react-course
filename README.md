@@ -2,4 +2,4 @@
 
 1. Sample Project One : "Get An Advice"
 
-file:///home/gairik/Pictures/Screenshots/Screenshot%20from%202024-03-28%2022-39-31.png
+![alt text](<Screenshot from 2024-03-28 22-42-11.png>)
